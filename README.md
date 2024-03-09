@@ -25,3 +25,8 @@ TODO: Write development instructions here
 ## Contributors
 
 - [Nick Brandaleone](https://github.com/your-github-user) - creator and maintainer
+
+## Apendix
+
+Based upon code in the crystal/samples folder:
+- https://github.com/crystal-lang/crystal/blob/master/samples/pretty_json.cr
